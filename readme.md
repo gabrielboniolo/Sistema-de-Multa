@@ -1,2 +1,2 @@
-Esse projeto foi feito a partir da aula 11 do curso de Java Script da plataforma Curso em Vídeo.
-Contém Java Script interno no HTML.
+Exercício feito a partir da aula 11 do curso de Java Script do Curso em Vídeo.
+Possui: Função e Estrutura Condiconal "If". Contém Java Script Interno no HTML.
